@@ -15,7 +15,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Excel" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" **alt="Power BI"           width="40" height="40"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" title="Tableau" **alt="Tableau" width="80" height="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/2560px-Tableau_logo.svg.png" title="Tableau" **alt="Tableau" width="90" height="30"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="sql-server"           width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;

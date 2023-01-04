@@ -13,14 +13,17 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb" title="Srping" alt="Spring" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg" title="Angular" **alt="Angular" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="sql-server" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Excel" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" **alt="Power BI"           width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" title="Tableau" **alt="Tableau" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="sql-server"           width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" title="Colab"         alt="Colab" width="40" height="40"/>&nbsp;    
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
-      </div>
+  </div>
+        
 </div>
 
 ---

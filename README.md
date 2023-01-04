@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150" />
-  <h2 align="center">Soy un desarrollador web de Perú. Me apasiona retarme y aprender constantemente, busco agregar valor en el área de trabajo al que pertenezca.</h2>
+  <h2 align="center">Soy un estudiante de la UNMSM. Me apasiona el mundo de los datos, busco retarme y aprender constantemente agregando valor en el área de trabajo al que pertenezca.</h2>
 </div>
 
 ---
@@ -12,17 +11,15 @@
 <div align="left">
     <h3>🔨 Lenguajes y herramientas:</h3>
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Srping" alt="Spring" width="40" height="40"/>&nbsp;
+        <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb" title="Srping" alt="Spring" width="40" height="40"/>&nbsp;
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg" title="Angular" **alt="Angular" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="sql-server" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" title="Hibernate" **alt="Hibernate" width="70" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="35" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
       </div>
 </div>
 
